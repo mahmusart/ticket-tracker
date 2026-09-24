@@ -1,0 +1,20 @@
+[
+  {
+    "title": "emma 1",
+    "reporter": "Mlx",
+    "priority": "high ",
+    "status": "open"
+  },
+  {
+    "title": "mlx 2",
+    "reporter": "elmudu ",
+    "priority": "low",
+    "status": "open"
+  },
+  {
+    "title": "ticket 3 error with mouse ",
+    "reporter": "Nura hassan ",
+    "priority": "high ",
+    "status": "open"
+  }
+]
